@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
+﻿
 using Xamarin.Forms;
 
 namespace HelloXamForms
@@ -19,6 +15,7 @@ namespace HelloXamForms
       protected override void OnStart()
       {
          // Handle when your app starts
+         // Ny rad
       }
 
       protected override void OnSleep()
