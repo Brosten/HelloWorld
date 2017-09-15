@@ -1,0 +1,2 @@
+C:\Work\Git\HelloWorld\HelloXamForms\HelloXamForms\HelloXamForms.UWP\HelloXamForms.UWP.csproj;x86
+C:\Work\Git\HelloWorld\HelloXamForms\HelloXamForms\HelloXamForms\HelloXamForms.csproj;neutral

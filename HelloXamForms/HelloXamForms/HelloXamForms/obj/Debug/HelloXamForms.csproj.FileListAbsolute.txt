@@ -1,0 +1,16 @@
+C:\Work\Git\HelloWorld\HelloXamForms\HelloXamForms\HelloXamForms\bin\Debug\HelloXamForms.dll
+C:\Work\Git\HelloWorld\HelloXamForms\HelloXamForms\HelloXamForms\bin\Debug\HelloXamForms.pdb
+C:\Work\Git\HelloWorld\HelloXamForms\HelloXamForms\HelloXamForms\bin\Debug\Xamarin.Forms.Core.dll
+C:\Work\Git\HelloWorld\HelloXamForms\HelloXamForms\HelloXamForms\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Work\Git\HelloWorld\HelloXamForms\HelloXamForms\HelloXamForms\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Work\Git\HelloWorld\HelloXamForms\HelloXamForms\HelloXamForms\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Work\Git\HelloWorld\HelloXamForms\HelloXamForms\HelloXamForms\bin\Debug\Xamarin.Forms.Core.xml
+C:\Work\Git\HelloWorld\HelloXamForms\HelloXamForms\HelloXamForms\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Work\Git\HelloWorld\HelloXamForms\HelloXamForms\HelloXamForms\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Work\Git\HelloWorld\HelloXamForms\HelloXamForms\HelloXamForms\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Work\Git\HelloWorld\HelloXamForms\HelloXamForms\HelloXamForms\obj\Debug\HelloXamForms.csprojResolveAssemblyReference.cache
+C:\Work\Git\HelloWorld\HelloXamForms\HelloXamForms\HelloXamForms\obj\Debug\HelloXamForms.csproj.CoreCompileInputs.cache
+C:\Work\Git\HelloWorld\HelloXamForms\HelloXamForms\HelloXamForms\obj\Debug\HelloXamForms.MainPage.xaml.g.cs
+C:\Work\Git\HelloWorld\HelloXamForms\HelloXamForms\HelloXamForms\obj\Debug\HelloXamForms.App.xaml.g.cs
+C:\Work\Git\HelloWorld\HelloXamForms\HelloXamForms\HelloXamForms\obj\Debug\HelloXamForms.dll
+C:\Work\Git\HelloWorld\HelloXamForms\HelloXamForms\HelloXamForms\obj\Debug\HelloXamForms.pdb
