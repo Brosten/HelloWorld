@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/HelloXamForms/HelloXamForms/HelloXamForms/bin
+/HelloXamForms/HelloXamForms/HelloXamForms/obj/Release
+/HelloXamForms/HelloXamForms/HelloXamForms.Android/bin
+/HelloXamForms/HelloXamForms/HelloXamForms.Android/obj
+/HelloXamForms/HelloXamForms/HelloXamForms.iOS/bin
+/HelloXamForms/HelloXamForms/HelloXamForms.iOS/obj
+/HelloXamForms/HelloXamForms/HelloXamForms.UWP/bin
+/HelloXamForms/HelloXamForms/HelloXamForms.UWP/obj
+/HelloXamForms/HelloXamForms/HelloXamForms.iOS/HelloXamForms.iOS.csproj.user
+/HelloXamForms/packages
+/HelloXamForms/HelloXamForms/.vs
+
